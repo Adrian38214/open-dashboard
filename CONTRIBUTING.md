@@ -9,3 +9,4 @@ Notes and usage details for open-dashboard.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- link the usage section
