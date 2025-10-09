@@ -12,3 +12,4 @@ Notes and usage details for open-dashboard.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- add a note about the defaults
